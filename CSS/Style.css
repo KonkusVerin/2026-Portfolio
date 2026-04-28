@@ -1,4 +1,26 @@
 body{
-    background-color:#c3d8c6;
+    background-color:#d1e1d4; 
+    opacity: 63%;
+    display: flex;
+    justify-content: center;
+}
+
+#Main-Container {
+    width: 1024px; 
+    height: 1140px; 
+    border: solid; 
+    border-color: black; 
+    border-width: 1px;
 }
  
+#Header{
+    width: 1024px;
+    height: 150px;
+    border: solid; 
+    border-color: #4e2b6e; 
+    border-width: 1px;
+    background-color: #4e2b6e;
+
+    text-align: center;
+}
+
