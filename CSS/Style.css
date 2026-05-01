@@ -1,13 +1,12 @@
 body{
-    background-color:#d1e1d4; 
-    opacity: 63%;
+    background-color:#d1e1d9; 
     display: flex;
     justify-content: center;
 }
 
 #Main-Container {
     width: 1024px; 
-    height: 1140px; 
+    height: 2770px; 
     border: solid; 
     border-color: black; 
     border-width: 1px;
@@ -17,10 +16,44 @@ body{
     width: 1024px;
     height: 150px;
     border: solid; 
-    border-color: #4e2b6e; 
+    border-color: #6c5c7b; 
     border-width: 1px;
-    background-color: #4e2b6e;
+    background-color: #6c5c7b;
 
     text-align: center;
+    font-size: xx-large;
 }
 
+#Logo-Section {
+    width: 1024px;
+    height: 1140px;
+    border: solid; 
+    border-color: black;
+    border-width: 1px;
+}
+
+#Logo {
+    margin-top: 25px;
+    margin-left: 15px;
+}
+
+#Resume {
+    width: 1024px;
+    height: 1480px;
+    border: solid; 
+    border-color: rgb(0, 0, 0);
+    border-width: 1px;
+    background-color: #988aa5;
+}
+
+#Resume-Header {
+    width: 1024px;
+    height: 140px;
+    border: solid;
+    border-color: #6c5c7b; 
+    border-width: 1px;
+    background-color: #6c5c7b;
+
+    text-align: center;
+    font-size: xx-large;
+}
