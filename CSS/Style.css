@@ -1,12 +1,12 @@
 body{
-    background-color:#d1e1d9; 
+    background-color:#d9ecdd; 
     display: flex;
     justify-content: center;
 }
 
 #Main-Container {
     width: 1024px; 
-    height: 2770px; 
+    height: 2740px; 
     border: solid; 
     border-color: black; 
     border-width: 1px;
@@ -32,18 +32,78 @@ body{
     border-width: 1px;
 }
 
+#Home-Logo {
+    margin-top: -140px;
+    margin-right: 500px;
+}
+
 #Logo {
-    margin-top: 25px;
-    margin-left: 15px;
+    margin-top: 35px;
+    margin-left: 40px;
+}
+
+.Portfolio-About-Contact {
+    height: 480px;
+    width: 240px;
+    background-color: #83a587;
+    margin-top: -480px;
+    margin-left: 730px;
+    opacity: 80%;
+    /* position: fixed;  */
+    /* Fix the position:fixed so it can be removed but everything stays in place */
+}
+
+/* #Text {
+    font-size: xx-large;
+    justify-items: center;
+} */
+
+.Element1 {
+    height: 80px;
+    width: 150px;
+    background-color:#d9ecdd;
+    margin-top: 60px;
+    margin-left: 45px;
+}
+
+.Element2 {
+    height: 80px;
+    width: 150px;
+    background-color:#d9ecdd;
+    margin-top: 60px;
+    margin-left: 45px;
+}
+
+.Element3 {
+    height: 80px;
+    width: 150px;
+    background-color:#d9ecdd;
+    margin-top: 60px;
+    margin-left: 45px;
+}
+
+.Image1 {
+    height: 450px;
+    width: 400px;
+    background-color: #988aa5;
+    margin-top: 70px;
+    margin-left: 50px;
+}
+
+.Image2 {
+    height: 450px;
+    width: 480px;
+    background-color: #988aa5;
+    margin-top: -450px;
+    margin-left: 490px;
 }
 
 #Resume {
     width: 1024px;
-    height: 1480px;
+    height: 1450px;
     border: solid; 
-    border-color: rgb(0, 0, 0);
     border-width: 1px;
-    background-color: #988aa5;
+    background-color: #aa9eb5;
 }
 
 #Resume-Header {
@@ -57,3 +117,22 @@ body{
     text-align: center;
     font-size: xx-large;
 }
+
+#Resume-Paper {
+    margin-top: 75px;
+    justify-self: center;
+}
+
+#Second-Home-Logo {
+    margin-top: -135px;
+    margin-left: 820px;
+}
+
+
+/* Things to still do: 
+    link second home logo
+    Fix portfolio-about-contact section
+    Add images & text
+    Change color & typeface for text
+    Round boxes
+*/
