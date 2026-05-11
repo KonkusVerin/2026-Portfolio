@@ -53,35 +53,6 @@ body{
     /* Fix the position:fixed so it can be removed but everything stays in place */
 }
 
-/* #Text {
-    font-size: xx-large;
-    justify-items: center;
-} */
-
-.Element1 {
-    height: 80px;
-    width: 150px;
-    background-color:#d9ecdd;
-    margin-top: 60px;
-    margin-left: 45px;
-}
-
-.Element2 {
-    height: 80px;
-    width: 150px;
-    background-color:#d9ecdd;
-    margin-top: 60px;
-    margin-left: 45px;
-}
-
-.Element3 {
-    height: 80px;
-    width: 150px;
-    background-color:#d9ecdd;
-    margin-top: 60px;
-    margin-left: 45px;
-}
-
 .Image1 {
     height: 450px;
     width: 400px;
@@ -128,11 +99,91 @@ body{
     margin-left: 820px;
 }
 
-
-/* Things to still do: 
+/* Things to still do for home page: 
     link second home logo
     Fix portfolio-about-contact section
     Add images & text
     Change color & typeface for text
     Round boxes
+    Add border around name
+    Link portfolio, about, and contact pages
+*/
+
+#Portfolio-Main-Container {
+    width: 1024px; 
+    height: 750px; 
+    border: solid; 
+    border-color: black; 
+    border-width: 1px;
+}
+
+#Portfolio-Logo {
+    margin-top: -140px;
+    margin-right: 380px;
+}
+
+.Portfolio-Topics {
+    width: 1024px;
+    height: 90px; 
+    background-color: #aa9eb5;
+}
+
+.Photo-Section {
+    width: 520px;
+    height: 355px;
+    background-color: #aa9eb5;
+    justify-self: center;
+    margin-top: 70px;
+}
+
+#Left1 {
+    margin-top: -630px;
+    margin-left: 50px;
+}
+
+#Photo-Left {
+    margin-top: 350px;
+    margin-left: 125px;
+}
+
+#Photo-Right {
+    margin-top: -75px;
+    margin-left: 810px;
+}
+
+.How-Many {
+    width: 80px;
+    height: 40px;
+    background-color: #83a587;
+    opacity: 80%;
+    margin-top: -275px;
+    margin-left: 670px;
+}
+
+.Description {
+    height: 40px;
+    width: 500px;
+    background-color: #83a587;
+    opacity: 80%;
+    justify-self: center;
+    margin-top: 390px;
+}
+
+#Cattail1 {
+    margin-top: -190px;
+    margin-left: 25px;
+}
+
+#Cattail2and3 {
+    margin-top: -205px;
+    margin-left: 780px;
+}
+
+/* Things to still do for portfolio page:
+    Add text and images
+    Change color & typeface for text
+    Add border around name
+    link home logo
+    Round boxes 
+    Link portfolio, about, and contact pages
 */
