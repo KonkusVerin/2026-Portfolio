@@ -113,6 +113,35 @@ body{
     justify-self: center;
 }
 
+.Portfolio-Box {
+    height: 80px;
+    width: 150px;
+    background-color:#d9ecdd;
+    margin-left: 45px;
+    margin-top: -10px;
+}
+
+.About-Box {
+    height: 80px;
+    width: 150px;
+    background-color:#d9ecdd;
+    margin-left: 45px;
+    margin-top: 50px;
+}
+
+.Contact-Box {
+    height: 80px;
+    width: 150px;
+    background-color:#d9ecdd;
+    margin-left: 45px;
+    margin-top: 50px;
+}
+
+#Dogs {
+    margin-top: -425px;
+    margin-left: 90px;
+}
+
 /* Things to still do for home page: 
     link second home logo
     Fix portfolio-about-contact section
