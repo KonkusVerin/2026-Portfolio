@@ -148,7 +148,6 @@ body{
     Add images & text
     Change color & typeface for text
     Round boxes
-    Add borders for above
     Center title
 */
 
@@ -162,7 +161,7 @@ body{
 
 #Portfolio-Logo {
     margin-top: -140px;
-    margin-right: 660px;
+    margin-right: 680px;
 }
 
 .Portfolio-Topics {
@@ -179,13 +178,8 @@ body{
     margin-top: 70px;
 }
 
-#Left1 {
-    margin-top: -630px;
-    margin-left: 30px;
-}
-
 #Photo-Left {
-    margin-top: 350px;
+    margin-top: -205px;
     margin-left: 125px;
 }
 
@@ -225,9 +219,7 @@ body{
 /* Things to still do for portfolio page:
     Add text and images
     Change color & typeface for text
-    link home logo
     Round boxes 
-    Add borders for above
     Center title
 */
 
@@ -241,12 +233,7 @@ body{
 
 #About-Logo {
     margin-top: -140px;
-    margin-right: 660px;
-}
-
-#Left2 {
-    margin-top: -115px;
-    margin-left: 30px;
+    margin-right: 680px;
 }
 
 .Fun-Facts-Title {
@@ -254,7 +241,7 @@ body{
     width: 260px;
     background-color: #aa9eb5;
     margin-left: 55px;
-    margin-top: 80px;
+    margin-top: 40px;
 }
 
 .Interests-Title {
@@ -328,9 +315,7 @@ body{
 /* Things to still do for about page:
     Add text and image
     Change color & typeface for text
-    link home logo
     Round boxes 
-    Add borders for above
     Add/link story
     Center title 
 */
@@ -353,16 +338,11 @@ body{
 
 #Contact-Logo {
     margin-top: -140px;
-    margin-right: 660px;
-}
-
-#Left3 {
-    margin-top: -115px;
-    margin-left: 30px;
+    margin-right: 680px;
 }
 
 #Cattail4 {
-    margin-top: 375px;
+    margin-top: 335px;
     margin-left: 15px;
 }
 
@@ -412,8 +392,6 @@ body{
 /* Things to still do for Contact page 
     Add text and image
     Change color & typeface for text
-    link home logo
     Round boxes 
-    Add borders for above
     Center title
 */
