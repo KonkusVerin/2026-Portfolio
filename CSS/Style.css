@@ -42,7 +42,7 @@ body{
 
 #Home-Logo {
     margin-top: -140px;
-    margin-right: 680px;
+    margin-right: 710px;
 }
 
 #Logo {
@@ -61,7 +61,7 @@ body{
 
 .Image1 {
     height: 450px;
-    width: 400px;
+    width: 380px;
     background-color: #988aa5;
     margin-top: 70px;
     margin-left: 50px;
@@ -139,7 +139,7 @@ body{
 
 #Dogs {
     margin-top: -425px;
-    margin-left: 90px;
+    margin-left: 75px;
 }
 
 /* Things to still do for home page: 
@@ -149,6 +149,7 @@ body{
     Change color & typeface for text
     Round boxes
     Center title
+    Title images
 */
 
 #Portfolio-Main-Container {
@@ -161,7 +162,7 @@ body{
 
 #Portfolio-Logo {
     margin-top: -140px;
-    margin-right: 680px;
+    margin-right: 710px;
 }
 
 .Portfolio-Topics {
@@ -216,11 +217,76 @@ body{
     margin-left: 780px;
 }
 
+.Portfolio-Portfolio {
+    width: 135px;
+    height: 30px;
+    background-color: #aa9eb5;
+    margin-top: -743px;
+    margin-left: 840px;
+}
+
+.About-Portfolio {
+    width: 135px;
+    height: 30px;
+    background-color: #aa9eb5;
+    margin-left: 840px;
+    margin-top: 15px;
+}
+
+.Contact-Portfolio {
+    width: 135px;
+    height: 30px;
+    background-color: #aa9eb5;
+    margin-left: 840px;
+    margin-top: 15px;
+}
+
+.Ceramics-Box {
+    width: 150px;
+    height: 60px;
+    background-color: #6c5c7b;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.Digital-Design-Box {
+    width: 150px;
+    height: 60px;
+    background-color: #6c5c7b;
+    margin-top: -60px;
+    margin-left: 200px;
+}
+
+.Photography-Box {
+    width: 150px;
+    height: 60px;
+    background-color: #6c5c7b;
+    margin-top: -60px;
+    margin-left: 400px;
+}
+
+.Traditional-Art-Box {
+    width: 150px;
+    height: 60px;
+    background-color: #6c5c7b;
+    margin-top: -60px;
+    margin-left: 600px;
+}
+
+.Digital-Art-Box {
+    width: 150px;
+    height: 60px;
+    background-color: #6c5c7b;
+    margin-top: -60px;
+    margin-left: 820px;
+}
+
 /* Things to still do for portfolio page:
     Add text and images
     Change color & typeface for text
     Round boxes 
     Center title
+    Title images
 */
 
 #About-Main-Container {
@@ -233,7 +299,7 @@ body{
 
 #About-Logo {
     margin-top: -140px;
-    margin-right: 680px;
+    margin-right: 710px;
 }
 
 .Fun-Facts-Title {
@@ -312,12 +378,37 @@ body{
     margin-top: 45px;
 }
 
+.Portfolio-About {
+    width: 135px;
+    height: 30px;
+    background-color: #aa9eb5;
+    margin-top: -1317px;
+    margin-left: 840px;
+}
+
+.About-About {
+    width: 135px;
+    height: 30px;
+    background-color: #aa9eb5;
+    margin-left: 840px;
+    margin-top: 15px;
+}
+
+.Contact-About {
+    width: 135px;
+    height: 30px;
+    background-color: #aa9eb5;
+    margin-left: 840px;
+    margin-top: 15px;
+}
+
 /* Things to still do for about page:
     Add text and image
     Change color & typeface for text
     Round boxes 
     Add/link story
-    Center title 
+    Center title
+    Title images 
 */
 
 #Contact-Main-Container {
@@ -338,7 +429,7 @@ body{
 
 #Contact-Logo {
     margin-top: -140px;
-    margin-right: 680px;
+    margin-right: 710px;
 }
 
 #Cattail4 {
@@ -389,9 +480,35 @@ body{
     margin-left: 370px;
 }
 
+.Portfolio-Contact {
+    width: 135px;
+    height: 30px;
+    background-color: #aa9eb5;
+    margin-left: 840px;
+    margin-top: -496px;
+}
+
+.About-Contact {
+    width: 135px;
+    height: 30px;
+    background-color: #aa9eb5;
+    margin-left: 840px;
+    margin-top: 15px;
+}
+
+.Contact-Contact {
+    width: 135px;
+    height: 30px;
+    background-color: #aa9eb5;
+    margin-left: 840px;
+    margin-top: 15px;
+}
+
 /* Things to still do for Contact page 
     Add text and image
     Change color & typeface for text
     Round boxes 
     Center title
+    Title images
+    Animate lily pads
 */
