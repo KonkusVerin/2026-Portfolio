@@ -22,6 +22,7 @@ body{
 
     text-align: center;
     font-size: xx-large;
+    color: #513b66;
 }
 
 .Border {
@@ -50,20 +51,11 @@ body{
     margin-left: 40px;
 }
 
-.Portfolio-About-Contact {
-    height: 480px;
-    width: 240px;
-    background-color: #92b696;
-    margin-top: -480px;
-    margin-left: 730px;
-    opacity: 80%;
-}
-
 .Image1 {
     height: 450px;
     width: 380px;
     background-color: #988aa5;
-    margin-top: 70px;
+    margin-top: 40px;
     margin-left: 50px;
 }
 
@@ -93,6 +85,7 @@ body{
 
     text-align: center;
     font-size: xx-large;
+    color: #513b66;
 }
 
 #Resume-Paper {
@@ -113,39 +106,63 @@ body{
     justify-self: center;
 }
 
-.Portfolio-Box {
-    height: 80px;
-    width: 150px;
-    background-color:#d9ecdd;
-    margin-left: 45px;
-    margin-top: -10px;
-}
-
-.About-Box {
-    height: 80px;
-    width: 150px;
-    background-color:#d9ecdd;
-    margin-left: 45px;
-    margin-top: 50px;
-}
-
-.Contact-Box {
-    height: 80px;
-    width: 150px;
-    background-color:#d9ecdd;
-    margin-left: 45px;
-    margin-top: 50px;
-}
-
 #Dogs {
     margin-top: -425px;
     margin-left: 75px;
 }
 
+.Portfolio-About-Contact-Box {
+    height: 500px;
+    width: 250px;
+    background-color: #a7c8aa;
+    margin-left: -320px;
+    margin-top: 220px;
+}
+
+.Portfolio-Box {
+    height: 100px;
+    width: 170px;
+    background-color: #d9ecdd;
+    margin-top: 270px;
+    margin-left: -210px;
+}
+
+.About-Box {
+    height: 100px;
+    width: 170px;
+    background-color: #d9ecdd;
+    margin-top: 420px;
+    margin-left: -170px;
+}
+
+.Contact-Box {
+    height: 100px;
+    width: 170px;
+    background-color: #d9ecdd;
+    margin-top: 570px;
+    margin-left: -170px;
+}
+
+.Portfolio-Tab {
+    margin-left: -100px;
+    font-size: xx-large;
+    margin-top: 200px;
+}
+
+.About-Tab {
+    margin-left: -100px;
+    font-size: xx-large;
+    margin-top: 400px;
+}
+
+.Contact-Tab {
+    margin-left: -100px;
+    font-size: xx-large;
+    margin-top: 600px;
+}
+
 /* Things to still do for home page: 
-    link second home logo
-    Fix portfolio-about-contact section
-    Add images & text
+    Add image & text
     Change color & typeface for text
     Round boxes
     Center title
@@ -254,7 +271,7 @@ body{
     height: 60px;
     background-color: #6c5c7b;
     margin-top: -60px;
-    margin-left: 200px;
+    margin-left: 245px;
 }
 
 .Photography-Box {
@@ -262,7 +279,7 @@ body{
     height: 60px;
     background-color: #6c5c7b;
     margin-top: -60px;
-    margin-left: 400px;
+    margin-left: 440px;
 }
 
 .Traditional-Art-Box {
@@ -270,7 +287,7 @@ body{
     height: 60px;
     background-color: #6c5c7b;
     margin-top: -60px;
-    margin-left: 600px;
+    margin-left: 630px;
 }
 
 .Digital-Art-Box {
@@ -302,7 +319,7 @@ body{
     margin-right: 710px;
 }
 
-.Fun-Facts-Title {
+.Fun-Facts-Title-Box {
     height: 100px;
     width: 260px;
     background-color: #aa9eb5;
@@ -310,7 +327,7 @@ body{
     margin-top: 40px;
 }
 
-.Interests-Title {
+.Interests-Title-Box {
     height: 100px;
     width: 260px;
     background-color: #aa9eb5;
@@ -318,7 +335,7 @@ body{
     margin-top: -100px;
 }
 
-.Traveling-Title {
+.Traveling-Title-Box {
     height: 100px;
     width: 260px;
     background-color: #aa9eb5;
@@ -333,6 +350,27 @@ body{
     opacity: 80%;
     margin-left: 65px;
     margin-top: 40px;
+}
+
+.Fun-Facts-Header {
+    font-size: 50px;
+    margin-top: 75px;
+    margin-left: 85px;
+    color: #513b66;
+}
+
+.Interests-Header {
+    font-size: 50px;
+    margin-top: -105px;
+    justify-self: center;
+    color: #513b66;
+}
+
+.Traveling-Header {
+    font-size: 50px;
+    margin-top: -105px;
+    margin-left: 745px;
+    color: #513b66;
 }
 
 .Interests {
@@ -467,7 +505,7 @@ body{
 }
 
 #Lily-Pad1 {
-    margin-top: -480px;
+    margin-top: -475px;
 }
 
 #Lily-Pad2 {
@@ -485,7 +523,7 @@ body{
     height: 30px;
     background-color: #aa9eb5;
     margin-left: 840px;
-    margin-top: -496px;
+    margin-top: -503px;
 }
 
 .About-Contact {
@@ -504,11 +542,24 @@ body{
     margin-top: 15px;
 }
 
+.bob {
+    -webkit-animation: mover 2s infinite  alternate;
+    animation: mover 2s infinite  alternate;
+}
+
+@-webkit-keyframes mover {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-10px); }
+}
+@keyframes mover {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-10px); }
+}
+
 /* Things to still do for Contact page 
     Add text and image
     Change color & typeface for text
     Round boxes 
     Center title
     Title images
-    Animate lily pads
 */
