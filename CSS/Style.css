@@ -143,29 +143,32 @@ body{
     margin-left: -170px;
 }
 
-.Portfolio-Tab {
-    margin-left: -100px;
+.Portfolio-Tab1 {
+    margin-left: -145px;
     font-size: xx-large;
-    margin-top: 200px;
+    margin-top: 300px;
 }
 
-.About-Tab {
-    margin-left: -100px;
+.About-Tab1 {
+    margin-left: -120px;
     font-size: xx-large;
-    margin-top: 400px;
+    margin-top: 450px;
 }
 
-.Contact-Tab {
-    margin-left: -100px;
+.Contact-Tab1 {
+    margin-left: -115px;
     font-size: xx-large;
     margin-top: 600px;
 }
 
 /* Things to still do for home page: 
     Add image & text
-    Change color & typeface for text
+    Change typeface for text
     Round boxes
-    Center title
+    Cea.Class1 {
+    text-decoration: none;
+    color:#39663e;
+}nter title
     Title images
 */
 
@@ -298,12 +301,92 @@ body{
     margin-left: 820px;
 }
 
+.Portfolio-Tab2 {
+    margin-top: -210px;
+    margin-left: 865px;
+    font-size: x-large;
+}
+
+.About-Tab2 {
+    margin-top: 18px;
+    margin-left: 860px;
+    font-size: x-large;
+}
+
+.Contact-Tab2 {
+    margin-top: 18px;
+    margin-left: 870px;
+    font-size: x-large;
+}
+
+a.Class2 {
+    text-decoration: none;
+    color:#513b66;
+}
+
+#Ceramics {
+    margin-top: 45px;
+    font-size: 30px;
+    margin-left: 65px;
+    color: #b9acc4;
+}
+
+#Digital1 {
+    font-size: 25px;
+    margin-top: -75px;
+    margin-left: 285px;
+    color: #b9acc4;
+}
+
+#Design {
+    font-size: 25px;
+    margin-top: -30px;
+    margin-left: 285px;
+    color: #b9acc4;
+}
+
+#Photography {
+    font-size: 25px;
+    margin-top: -65px;
+    margin-left: 450px;
+    color: #b9acc4;
+}
+
+#Traditional {
+    font-size: 25px;
+    margin-top: -65px;
+    margin-left: 646px;
+    color: #b9acc4;
+}
+
+#Art1 {
+    font-size: 25px;
+    margin-top: -30px;
+    margin-left: 685px;
+    color: #b9acc4;
+}
+
+#Digital2 {
+    font-size: 25px;
+    margin-top: -78px;
+    margin-left: 855px;
+    color: #b9acc4;
+}
+
+#Art2 {
+    font-size: 25px;
+    margin-top: -28px;
+    margin-left: 875px;
+    color: #b9acc4;
+}
+
 /* Things to still do for portfolio page:
     Add text and images
     Change color & typeface for text
     Round boxes 
     Center title
     Title images
+    Make it work
 */
 
 #About-Main-Container {
@@ -354,21 +437,21 @@ body{
 
 .Fun-Facts-Header {
     font-size: 50px;
-    margin-top: 75px;
+    margin-top: 76px;
     margin-left: 85px;
     color: #513b66;
 }
 
 .Interests-Header {
     font-size: 50px;
-    margin-top: -105px;
+    margin-top: -106px;
     justify-self: center;
     color: #513b66;
 }
 
 .Traveling-Header {
     font-size: 50px;
-    margin-top: -105px;
+    margin-top: -106px;
     margin-left: 745px;
     color: #513b66;
 }
@@ -439,6 +522,8 @@ body{
     margin-left: 840px;
     margin-top: 15px;
 }
+
+
 
 /* Things to still do for about page:
     Add text and image
@@ -562,4 +647,5 @@ body{
     Round boxes 
     Center title
     Title images
+    Animate lily pads indivitually (timed)
 */
