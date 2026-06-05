@@ -31,6 +31,7 @@ body{
     background-color: #988aa5;
     margin-top: -110px;
     justify-self: center;
+    border-radius: 30px;
 }
 
 #Logo-Section {
@@ -55,8 +56,9 @@ body{
     height: 450px;
     width: 380px;
     background-color: #988aa5;
-    margin-top: 40px;
+    margin-top: 80px;
     margin-left: 50px;
+    border-radius: 30px;
 }
 
 .Image2 {
@@ -65,6 +67,7 @@ body{
     background-color: #988aa5;
     margin-top: -450px;
     margin-left: 490px;
+    border-radius: 30px;
 }
 
 #Resume {
@@ -104,6 +107,7 @@ body{
     background-color: #988aa5;
     margin-top: -140px;
     justify-self: center;
+    border-radius: 30px;
 }
 
 #Dogs {
@@ -117,6 +121,7 @@ body{
     background-color: #a7c8aa;
     margin-left: -320px;
     margin-top: 220px;
+    border-radius: 30px;
 }
 
 .Portfolio-Box {
@@ -125,6 +130,7 @@ body{
     background-color: #d9ecdd;
     margin-top: 270px;
     margin-left: -210px;
+    border-radius: 30px;
 }
 
 .About-Box {
@@ -133,6 +139,7 @@ body{
     background-color: #d9ecdd;
     margin-top: 420px;
     margin-left: -170px;
+    border-radius: 30px;
 }
 
 .Contact-Box {
@@ -141,6 +148,7 @@ body{
     background-color: #d9ecdd;
     margin-top: 570px;
     margin-left: -170px;
+    border-radius: 30px;
 }
 
 .Portfolio-Tab1 {
@@ -161,15 +169,18 @@ body{
     margin-top: 600px;
 }
 
-/* Things to still do for home page: 
-    Add image & text
-    Change typeface for text
-    Round boxes
-    Cea.Class1 {
+a.Class1 {
     text-decoration: none;
     color:#39663e;
-}nter title
+}
+
+/* Things to still do for home page: 
+    Add image
+    Change typeface for text
+    Round photos
+    Center title
     Title images
+    set up flavacon
 */
 
 #Portfolio-Main-Container {
@@ -197,6 +208,7 @@ body{
     background-color: #aa9eb5;
     justify-self: center;
     margin-top: 70px;
+    border-radius: 30px;
 }
 
 #Photo-Left {
@@ -216,6 +228,7 @@ body{
     opacity: 80%;
     margin-top: -275px;
     margin-left: 670px;
+    border-radius: 10px;
 }
 
 .Description {
@@ -225,6 +238,7 @@ body{
     opacity: 80%;
     justify-self: center;
     margin-top: 390px;
+    border-radius: 10px;
 }
 
 #Cattail1 {
@@ -243,6 +257,7 @@ body{
     background-color: #aa9eb5;
     margin-top: -743px;
     margin-left: 840px;
+    border-radius: 10px;
 }
 
 .About-Portfolio {
@@ -251,6 +266,7 @@ body{
     background-color: #aa9eb5;
     margin-left: 840px;
     margin-top: 15px;
+    border-radius: 10px;
 }
 
 .Contact-Portfolio {
@@ -259,6 +275,7 @@ body{
     background-color: #aa9eb5;
     margin-left: 840px;
     margin-top: 15px;
+    border-radius: 10px;
 }
 
 .Ceramics-Box {
@@ -267,6 +284,7 @@ body{
     background-color: #6c5c7b;
     margin-top: 30px;
     margin-left: 50px;
+    border-radius: 20px;
 }
 
 .Digital-Design-Box {
@@ -275,6 +293,7 @@ body{
     background-color: #6c5c7b;
     margin-top: -60px;
     margin-left: 245px;
+    border-radius: 20px;
 }
 
 .Photography-Box {
@@ -283,6 +302,7 @@ body{
     background-color: #6c5c7b;
     margin-top: -60px;
     margin-left: 440px;
+    border-radius: 20px;
 }
 
 .Traditional-Art-Box {
@@ -291,6 +311,7 @@ body{
     background-color: #6c5c7b;
     margin-top: -60px;
     margin-left: 630px;
+    border-radius: 20px;
 }
 
 .Digital-Art-Box {
@@ -299,6 +320,7 @@ body{
     background-color: #6c5c7b;
     margin-top: -60px;
     margin-left: 820px;
+    border-radius: 20px;
 }
 
 .Portfolio-Tab2 {
@@ -310,18 +332,17 @@ body{
 .About-Tab2 {
     margin-top: 18px;
     margin-left: 860px;
-    font-size: x-large;
 }
 
 .Contact-Tab2 {
     margin-top: 18px;
     margin-left: 870px;
-    font-size: x-large;
 }
 
 a.Class2 {
     text-decoration: none;
     color:#513b66;
+    font-size: x-large;
 }
 
 #Ceramics {
@@ -383,7 +404,7 @@ a.Class2 {
 /* Things to still do for portfolio page:
     Add text and images
     Change color & typeface for text
-    Round boxes 
+    Round images 
     Center title
     Title images
     Make it work
@@ -408,6 +429,7 @@ a.Class2 {
     background-color: #aa9eb5;
     margin-left: 55px;
     margin-top: 40px;
+    border-radius: 25px;
 }
 
 .Interests-Title-Box {
@@ -416,6 +438,7 @@ a.Class2 {
     background-color: #aa9eb5;
     justify-self: center;
     margin-top: -100px;
+    border-radius: 25px;
 }
 
 .Traveling-Title-Box {
@@ -424,6 +447,7 @@ a.Class2 {
     background-color: #aa9eb5;
     margin-left: 710px;
     margin-top: -100px;
+    border-radius: 25px;
 }
 
 .Fun-Facts {
@@ -433,6 +457,7 @@ a.Class2 {
     opacity: 80%;
     margin-left: 65px;
     margin-top: 40px;
+    border-radius: 25px;
 }
 
 .Fun-Facts-Header {
@@ -463,6 +488,7 @@ a.Class2 {
     opacity: 80%;
     justify-self: center;
     margin-top: -400px;
+    border-radius: 25px;
 }
 
 .Traveling {
@@ -472,14 +498,16 @@ a.Class2 {
     opacity: 80%;
     margin-left: 720px;
     margin-top: -400px;
+    border-radius: 25px;
 }
 
 .Image3 {
     height: 550px;
-    width: 390px;
+    width: 465px;
     background-color: #aa9eb5;
     margin-top: 50px;
     margin-left: 65px;
+    border-radius: 30px;
 }
 
 .Story-Title {
@@ -487,16 +515,18 @@ a.Class2 {
     width: 260px;
     background-color: #aa9eb5;
     margin-top: -550px;
-    margin-left: 610px;
+    margin-left: 640px;
+    border-radius: 25px;
 }
 
 .Story-Section {
     height: 405px;
-    width: 475px;
+    width: 425px;
     background-color: #92b696;
     opacity: 80%;
-    margin-left: 505px;
+    margin-left: 565px;
     margin-top: 45px;
+    border-radius: 30px;
 }
 
 .Portfolio-About {
@@ -505,6 +535,7 @@ a.Class2 {
     background-color: #aa9eb5;
     margin-top: -1317px;
     margin-left: 840px;
+    border-radius: 10px;
 }
 
 .About-About {
@@ -513,6 +544,7 @@ a.Class2 {
     background-color: #aa9eb5;
     margin-left: 840px;
     margin-top: 15px;
+    border-radius: 10px;
 }
 
 .Contact-About {
@@ -521,17 +553,35 @@ a.Class2 {
     background-color: #aa9eb5;
     margin-left: 840px;
     margin-top: 15px;
+    border-radius: 10px;
 }
 
+.Portfolio-Tab3 {
+    margin-top: -305px;
+    margin-left: 865px;
+}
 
+.About-Tab3 {
+    margin-left: 857px;
+    margin-top: 17px;
+}
+
+.Contact-Tab3 {
+    margin-left: 868px;
+    margin-top: 17px;
+}
+
+#Americas-Favorite-Photo {
+    margin-top: 675px;
+    margin-left: 90px;
+}
 
 /* Things to still do for about page:
-    Add text and image
+    Add text and story
     Change color & typeface for text
-    Round boxes 
+    Round images 
     Add/link story
     Center title
-    Title images 
 */
 
 #Contact-Main-Container {
@@ -548,6 +598,7 @@ a.Class2 {
     background-color: #988aa5;
     margin-top: -110px;
     justify-self: center;
+    border-radius: 30px;
 }
 
 #Contact-Logo {
@@ -571,14 +622,16 @@ a.Class2 {
     background-color: #92b696;
     margin-top: -490px;
     margin-left: 60px;
+    border-radius: 25px;
 }
 
 .Image4 {
     height: 510px;
-    width: 440px;
+    width: 435px;
     background-color: #988aa5;
     margin-top: -260px;
-    margin-left: 530px;
+    margin-left: 540px;
+    border-radius: 30px;
 }
 
 .Thank-You {
@@ -587,6 +640,7 @@ a.Class2 {
     background-color: #92b696;
     margin-top: -185px;
     margin-left: 85px;
+    border-radius: 25px;
 }
 
 #Lily-Pad1 {
@@ -609,6 +663,7 @@ a.Class2 {
     background-color: #aa9eb5;
     margin-left: 840px;
     margin-top: -503px;
+    border-radius: 10px;
 }
 
 .About-Contact {
@@ -617,6 +672,7 @@ a.Class2 {
     background-color: #aa9eb5;
     margin-left: 840px;
     margin-top: 15px;
+    border-radius: 10px;
 }
 
 .Contact-Contact {
@@ -625,6 +681,7 @@ a.Class2 {
     background-color: #aa9eb5;
     margin-left: 840px;
     margin-top: 15px;
+    border-radius: 10px;
 }
 
 .bob {
@@ -641,11 +698,30 @@ a.Class2 {
     100% { transform: translateY(-10px); }
 }
 
+.Portfolio-Tab4 {
+    margin-top: -120px;
+    margin-left: 865px;
+}
+
+.About-Tab4 {
+    margin-left: 857px;
+    margin-top: 20px;
+}
+
+.Contact-Tab4 {
+    margin-left: 868px;
+    margin-top: 17px;
+}
+
+#Moth {
+    margin-left: 580px;
+    margin-top: 75px;
+}
+
 /* Things to still do for Contact page 
-    Add text and image
+    Add text
     Change color & typeface for text
     Round boxes 
     Center title
-    Title images
     Animate lily pads indivitually (timed)
 */
