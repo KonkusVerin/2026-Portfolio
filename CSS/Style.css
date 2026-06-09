@@ -576,13 +576,15 @@ a.Class2 {
     margin-left: -750px;
     text-align: center;
     font-size: 150%;
+    color: #39663e;
 }
 
 #Interests-Text {
     margin-top: -200px;
     margin-left: -40px;
     text-align: center;
-    font-size: 180%
+    font-size: 180%;
+    color: #39663e;
 }
 
 #Traveling-Text {
@@ -590,6 +592,7 @@ a.Class2 {
     margin-left: 620px;
     text-align: center;
     font-size: 150%;
+    color: #39663e;
 }
 
 ul {
@@ -654,7 +657,7 @@ ul {
     border-radius: 30px;
 }
 
-.Thank-You {
+.Email {
     height: 120px;
     width: 340px;
     background-color: #92b696;
@@ -736,6 +739,38 @@ ul {
 #Moth {
     margin-left: 580px;
     margin-top: 75px;
+}
+
+.Email-Information-Title {
+    height: 150px;
+    width: 350px;
+    background-color: #d9ecdd;
+    margin-top: -395px;
+    margin-left: 85px;
+    border-radius: 25px;
+}
+
+.Email-Information {
+    height: 80px;
+    width: 300px;
+    background-color: #d9ecdd;
+    margin-top: 108px;
+    margin-left: 105px;
+    border-radius: 20px;
+}
+
+.Email-Information-Text {
+    font-size: 50px;
+    color: #39663e;
+    margin-top: -300px;
+    margin-left: 120px;
+}
+
+.Email-Text {
+    font-size: 25px;
+    color: #39663e;
+    margin-top: 190px;
+    margin-left: 120px;
 }
 
 /* Things to still do for Contact page 
