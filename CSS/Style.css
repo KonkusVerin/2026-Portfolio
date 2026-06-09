@@ -575,22 +575,25 @@ a.Class2 {
     margin-top: -980px;
     margin-left: -750px;
     text-align: center;
+    font-size: 150%;
 }
 
 #Interests-Text {
-    margin-top: -240px;
+    margin-top: -200px;
     margin-left: -40px;
     text-align: center;
+    font-size: 180%
 }
 
 #Traveling-Text {
-    margin-top: -140px;
-    margin-left: 600px;
+    margin-top: -370px;
+    margin-left: 620px;
     text-align: center;
+    font-size: 150%;
 }
 
 ul {
-    font-size: 180%;
+    
 }
 
 /* Things to still do for about page:
